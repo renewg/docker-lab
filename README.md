@@ -174,8 +174,6 @@ Debe:
 
     montar el volumen en modo solo lectura
     mostrar el contenido en consola
-Creamos primero el volumen
-<img width="1200" height="445" alt="Ejercicio9a" src="https://github.com/user-attachments/assets/578d7031-f0c0-476e-a77c-910b180e294e" />
 Al Ponerlo en marcha, nos falla la 1ª vez ya que el fichero a leer no existe aún. Pero al volver a ejecutarlo y ya existir el fichero, funciona.
 <img width="1102" height="837" alt="Ejercicio9b" src="https://github.com/user-attachments/assets/ec21d0c0-a1b6-4a9f-84ba-a12ec315b2fd" />
 
